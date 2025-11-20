@@ -15,8 +15,7 @@
 튜토리얼은 크게 다음 네 가지 흐름으로 구성됩니다.
 
 1. **RMF 데모 소개**
-   - `rmf_demos`에서 제공하는 기본 데모(Hotel, Office, Clinic, Campus, Manufacturing & Logistics 등)를 개괄적으로 소개
-   - 이 포크에서 추가한 **RCI Lab World**를 포함하여,
+   - `rmf_demos`에서 제공하는 기본 데모(Hotel, Office, Airport Terminal)를 개괄적으로 소개
    - 여러 로봇 플릿, 엘리베이터(lift), 도어(door)가 어떻게 Open-RMF를 통해 조정되는지 시나리오 중심으로 설명
 
 2. **Traffic Editor로 환경 제작하기**
