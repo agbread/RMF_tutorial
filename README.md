@@ -3,7 +3,7 @@
 이 저장소는 Open-RMF를 처음 접하는 사용자를 위해 제작한 **튜토리얼 자료 모음**입니다.  
 튜토리얼 영상과 슬라이드(PPT)를 보면서, 직접 데모를 실행하고 환경을 만들고, 태스크를 생성해보는 것을 목표로 합니다.
 
-- 튜토리얼 영상: (YouTube 링크 추가 예정)
+- 튜토리얼 영상: (YouTube 링크) https://www.youtube.com/playlist?list=PLjPJoa4-dGtbBEgE7Ge4zIC7xLcqfqPHH
 - 튜토리얼 슬라이드 및 관련 자료(Google Drive):  
   https://drive.google.com/drive/folders/1QP4yWc97Mng6ip67Si4_xFa7CCRSI0wG?usp=drive_link
 - 데모 코드 및 월드: [agbread/rmf_demos](https://github.com/agbread/rmf_demos)
